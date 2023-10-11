@@ -11,7 +11,7 @@ const StateContext = createContext({
 const tmpSurveys = [
   {
     "id": 1,
-    "image_url": "https:\/\/api.yoursurveys.xyz\/images\/vJutXzn02CDwdOyh.png",
+    "image_url": "https:\/\/scontent.fpbc5-1.fna.fbcdn.net\/v\/t39.30808-6\/348275970_264214076164485_1989121206329033921_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=qc224St6h7UAX-bu2Yt&_nc_ht=scontent.fpbc5-1.fna&oh=00_AfAmQ_c2hwElnl331iXZVT3KTszrKRQ6VdUpGZ5HuweZHA&oe=652C268F",
     "title": "TheCodeholic YouTube channel",
     "slug": "thecodeholic-youtube-channel",
     "status": true,
@@ -152,7 +152,7 @@ const tmpSurveys = [
   },
   {
     "id": 2,
-    "image_url": "https:\/\/api.yoursurveys.xyz\/images\/gjIHElz4aKrL0nT0.png",
+    "image_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a/a7\/React-icon.svg\/2300px-React-icon.svg.png",
     "title": "React",
     "slug": "react",
     "status": true,
@@ -164,7 +164,7 @@ const tmpSurveys = [
   },
   {
     "id": 3,
-    "image_url": "https:\/\/api.yoursurveys.xyz\/images\/WPfzo0g66huUYYwR.png",
+    "image_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9/9a\/Laravel.svg\/800px-Laravel.svg.png",
     "title": "Laravel 9",
     "slug": "laravel-9",
     "status": true,
