@@ -11,8 +11,8 @@ const StateContext = createContext({
 const tmpSurveys = [
   {
     "id": 1,
-    "image_url": "https:\/\/scontent.fpbc5-1.fna.fbcdn.net\/v\/t39.30808-6\/348275970_264214076164485_1989121206329033921_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=qc224St6h7UAX-bu2Yt&_nc_ht=scontent.fpbc5-1.fna&oh=00_AfAmQ_c2hwElnl331iXZVT3KTszrKRQ6VdUpGZ5HuweZHA&oe=652C268F",
-    "title": "TheCodeholic YouTube channel",
+    "image_url": "https:\/\/w7.pngwing.com\/pngs\/854\/555\/png-transparent-vue-js-hd-logo-thumbnail.png",
+    "title": "thecodeholic-youtube-channel",
     "slug": "thecodeholic-youtube-channel",
     "status": true,
     "description": "My name is Zura.<br>I am Web Developer with 9+ years of experience, free educational content creator, CTO, Lecturer and father of two wonderful daughters.<br><br>The purpose of the channel is to share my several years of experience with beginner developers.<br>Teach them what I know and make my experience as a lesson for others.",
